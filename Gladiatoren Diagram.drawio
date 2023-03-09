@@ -1,14 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T13:49:40.042Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="L54KCbbd0sKKB-BvLR7B" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T13:52:51.772Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ak1WnZaMV9xpyKCYESak" version="21.0.2" type="github">
   <diagram name="Page-1" id="JTbZ26cEgnJaYDLDh8_u">
     <mxGraphModel dx="1687" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KQBAoADH2EhRXdVCtGJ--1" value="Classname" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="40" width="140" height="120" as="geometry" />
+        <mxCell id="KQBAoADH2EhRXdVCtGJ--1" value="Classname" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="185" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="KQBAoADH2EhRXdVCtGJ--2" value="+ name: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KQBAoADH2EhRXdVCtGJ--1">
-          <mxGeometry y="26" width="140" height="94" as="geometry" />
+        <object label="+ name: String" fight="" id="KQBAoADH2EhRXdVCtGJ--2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KQBAoADH2EhRXdVCtGJ--1">
+            <mxGeometry y="30" width="185" height="74" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="KQBAoADH2EhRXdVCtGJ--7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="KQBAoADH2EhRXdVCtGJ--1">
+          <mxGeometry y="104" width="185" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="KQBAoADH2EhRXdVCtGJ--6" value="+ method: fight()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KQBAoADH2EhRXdVCtGJ--1">
+          <mxGeometry y="112" width="185" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
